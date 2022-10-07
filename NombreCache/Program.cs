@@ -20,7 +20,7 @@ namespace NombreCache
             {
                 try
                 {
-                    Console.Write("Entrez le nombre à chercher lilili = ");
+                    Console.Write("Entrez le nombre à chercher lololo = ");
                     valeur = int.Parse(Console.ReadLine());
                     correct = true;
                 }
